@@ -1,6 +1,6 @@
 # Profile-statics
 
-Language: Html, CSS,Javascript
-Browser Support: Chrome, Edge, Firefox, Opera, Safari
-Responsive:  Yes
-Project Demo :
+<b>Language:</b> Html, CSS,Javascript
+<b>Browser Support:</b> Chrome, Edge, Firefox, Opera, Safari
+<b>Responsive:</b>  Yes
+<b>Project Demo :</b>
