@@ -17,3 +17,4 @@ countersEl.forEach((counterEl) => {
         }
     }
 });
+// <!--     coding by Nazir -->
